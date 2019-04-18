@@ -1,5 +1,7 @@
 import React from 'react';
 
-class SongList extends React.Component {
-    
+export default class SongList extends React.Component {
+    render() {
+        return <div>SongList</div>;
+    }
 }
